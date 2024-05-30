@@ -1,0 +1,4 @@
+repository "ProjectHordeSurvivor@NOGAMES@cloud"
+  path "/"
+    br "/main"
+    co "/main"
